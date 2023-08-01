@@ -14,3 +14,5 @@ management and facilitating outreach activities and interview processes for new 
 upon codebase modifications.
 - Optimized developer productivity by integrating the client and server documentation API into the CI/CD pipeline, resulting in
 a remarkable time savings of over 50% for modifying the documentation.
+
+[Bio Link](https://vip.hsrn.nyu.edu/2023/04/02/sidharth-shyamsukha.html)
